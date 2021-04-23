@@ -1,4 +1,4 @@
-module github.com/Rhymen/go-whatsapp/examples/loginWithOptions
+module github.com/KMACEL/go-whatsapp/examples/loginWithOptions
 
 go 1.14
 

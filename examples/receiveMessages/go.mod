@@ -1,4 +1,4 @@
-module github.com/Rhymen/go-whatsapp/examples/receiveMessages
+module github.com/KMACEL/go-whatsapp/examples/receiveMessages
 
 require (
 	github.com/Baozisoftware/qrcode-terminal-go v0.0.0-20170407111555-c0650d8dff0f

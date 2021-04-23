@@ -10,7 +10,7 @@ go get github.com/Rhymen/go-whatsapp
 ### Creating a connection
 ```go
 import (
-    whatsapp "github.com/Rhymen/go-whatsapp"
+    whatsapp "github.com/KMACEL/go-whatsapp"
 )
 
 wac, err := whatsapp.NewConn(20 * time.Second)
